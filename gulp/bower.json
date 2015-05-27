@@ -1,0 +1,21 @@
+{
+  "name": "CV",
+  "version": "1.0.0",
+  "authors": [
+    "dm@evilmonkey.me"
+  ],
+  "description": "CV",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jbone": "~1.0.28",
+    "normalize.css": "~3.0.3"
+  }
+}
